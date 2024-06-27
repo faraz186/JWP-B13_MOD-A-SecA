@@ -8,7 +8,11 @@ body{
 
 }
 
+
+
 /* Type Selector */
+
+
 
 h3{
     color: red;
@@ -24,13 +28,11 @@ h1,h2,h3{
 
 
 
-
-
 /* Class Selector */
 
 
 
-/* .a{
+.a{
     color: red;
 }
 
@@ -40,7 +42,7 @@ h1,h2,h3{
 
 .c{
     color: green;
-} */
+}
 
 
 
@@ -49,7 +51,7 @@ h1,h2,h3{
 
 
 
-/* #a{
+#a{
     color: red;
 }
 
@@ -59,7 +61,7 @@ h1,h2,h3{
 
 #c{
     color: green;
-} */
+}
                                 
 
 /* Child Selector */
