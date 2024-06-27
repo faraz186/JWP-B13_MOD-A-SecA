@@ -1,0 +1,111 @@
+/* *{
+    color: green;
+} */
+
+/* body{
+    background-color: lightcyan;
+    color: green;
+
+} */
+
+/* Type Selector */
+
+/* h3{
+    color: red;
+}
+
+p{
+    color: blue;
+} 
+    
+h1,h2,h3{
+    color: blue;
+}
+
+*/
+
+
+
+
+/* Class Selector */
+
+
+
+/* .a{
+    color: red;
+}
+
+.b{
+    color: blue;
+}
+
+.c{
+    color: green;
+} */
+
+
+
+
+/* Id Selector */
+
+
+
+/* #a{
+    color: red;
+}
+
+#b{
+    color: blue;
+}
+
+#c{
+    color: green;
+} */
+                                
+
+/* Child Selector */
+
+
+
+
+/* div>p{
+    background-color: lightgoldenrodyellow;
+}
+
+div>h1,div>h2,div>h3{
+    color: blue;
+} */
+
+
+/* 
+#container>p{
+    background-color: lightgoldenrodyellow;
+}
+
+#container>h1,#container>h2,#container>h3{
+    color: blue;
+} */
+
+
+
+
+/* Descendant Selector */
+
+/* div p{
+    color: red;
+} */
+/* 
+h1~p{
+    color: red;
+
+} */
+
+/* .w1{
+    color: rgb(57, 161, 57);
+}
+
+.w2{
+    color: white;
+    background-color: rgb(69, 155, 69);
+    font-weight:900;
+} */
