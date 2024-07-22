@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+div {
+    border: 2px solid red;
+    margin: 10px 30px 20px 30px;
+    box-shadow: 3px 3px 4px red;
+    border-top-right-radius: 10px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border: none;
+
+}
+
+
+table {
+    width: 200px;
+    border: 2px solid green;
+    border-spacing: 20px;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+
+td {
+    border: 2px solid green;
+}
+
+
+ol {
+    list-style-image: url(https://img.freepik.com/free-psd/realistic-star-isolated_23-2151547712.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1719532800&semt=ais_user);
+    list-style-position: inside;
+    list-style-type: decimal-leading-zero;
+    list-style: inside decimal-leading-zero;
+}
+
+
+
+input.email {
+    background-image: url(https://media.istockphoto.com/id/1188904068/vector/mail-post-envelope-icon-shape-postage-logo-symbol-e-mail-communication-sign-button-vector.jpg?s=170667a&w=0&k=20&c=HbEd33JHogAOgCZDPD4cjHOouHy4VN1HDQW1joct-cE=);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+
+input.password {
+    background-image: url(https://icons.veryicon.com/png/o/business/pinjamango2018/password-32.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+p {
+    color: black;
+    text-decoration: underline;
+    cursor: help;
+    background-color: #F5F5F7;
+}
+
+body {
+    background-color: rgb(171, 171, 238);
+}
+
+.blackBox {
+    background-color: rgb(112, 108, 108);
+    width: 150px;
+    height: 130px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.whiteBox {
+    background-color: white;
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    height: 130px;
+}
+
+img {
+    position: absolute;
+    right: 40px;
+    top: 15px;
+}
