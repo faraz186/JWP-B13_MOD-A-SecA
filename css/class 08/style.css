@@ -106,6 +106,10 @@ body{
     background-color: lightblue;
 }
 
+
+                        /* Navbar Style Code */
+
+
 *{
     margin: 0;
     padding: 0;
@@ -132,6 +136,9 @@ a{
 .title{
     margin-right: 500px;
 }
+
+                        /* Card Section style */
+
 
 .card1{
     margin: 10px;
