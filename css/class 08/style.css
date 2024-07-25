@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+div {
+    border: 2px solid red;
+    margin: 10px 30px 20px 30px;
+    box-shadow: 3px 3px 4px red;
+    border-top-right-radius: 10px;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    border: none;
+
+}
+
+
+table {
+    width: 200px;
+    border: 2px solid green;
+    border-spacing: 20px;
+    border-collapse: collapse;
+    empty-cells: hide;
+}
+
+td {
+    border: 2px solid green;
+}
+
+
+ol {
+    list-style-image: url(https://img.freepik.com/free-psd/realistic-star-isolated_23-2151547712.jpg?size=338&ext=jpg&ga=GA1.1.2116175301.1719532800&semt=ais_user);
+    list-style-position: inside;
+    list-style-type: decimal-leading-zero;
+    list-style: inside decimal-leading-zero;
+}
+
+
+
+input.email {
+    background-image: url(https://media.istockphoto.com/id/1188904068/vector/mail-post-envelope-icon-shape-postage-logo-symbol-e-mail-communication-sign-button-vector.jpg?s=170667a&w=0&k=20&c=HbEd33JHogAOgCZDPD4cjHOouHy4VN1HDQW1joct-cE=);
+    background-size: 20px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+
+input.password {
+    background-image: url(https://icons.veryicon.com/png/o/business/pinjamango2018/password-32.png);
+    background-size: 16px;
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+p {
+    color: black;
+    text-decoration: underline;
+    cursor: help;
+    background-color: #F5F5F7;
+} 
+
+ body {
+    background-color: rgb(171, 171, 238);
+}
+
+.blackBox {
+    background-color: rgb(112, 108, 108);
+    width: 150px;
+    height: 130px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.whiteBox {
+    background-color: white;
+    width: 150px;
+    display: inline-block;
+    margin: 5px;
+    height: 130px;
+}
+
+img {
+   position: relative;
+   top: -100px;
+   left: 380px;
+}
+
+.text1{
+    background-color: blue;
+    width: 100px;
+
+}
+
+.text2{
+    background-color: red;
+    position: absolute;
+    top: 8px;
+    z-index: 1;
+    width: 100px;
+} 
+
+body{
+    background-color: lightblue;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+}
+
+li{
+    display: inline-block;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+
+}
+
+.title{
+    margin-right: 500px;
+}
+
+.card1{
+    margin: 10px;
+    width: 250px;
+    border-radius: 8px;
+    background-color: ghostwhite;
+    display: inline-block;
+}
+
+.card1Img{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    width: 100%;
+}
+
+.label{
+    background-color: rgb(68, 227, 227);
+    color: black;
+    width: 70px;
+    text-align: center;
+    margin: 10px;
+    border-radius: 20px;
+    padding: 2px;
+    font-size: 13px;
+}
+
+.cardHeading{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.desc{
+    margin: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: grey;
+}
+
+.footerImg{
+    width: 35px;
+    margin-top: 50px;
+    border-radius: 50%;
+    margin-left: 8px;
+}
+
+.imgTitle{
+    position: relative;
+    top: -20px;
+    font-weight: bold;
+    font-size: 10px;
+}
+
+.imgTime{
+    position: relative;
+    top: -21px;
+    left: 47px;
+    font-size: 13px;
+    color: grey;
+}
