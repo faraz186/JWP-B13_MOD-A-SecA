@@ -1,0 +1,71 @@
+@import url(./style2.css);
+
+*{
+    margin: 0;
+    padding: 0;
+} 
+
+
+ ul{
+    background-color: brown;
+    color: white;
+    padding: 10px;
+    
+}
+
+li{
+    display: inline-block;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+
+}
+
+.title{
+    margin-right: 500px;
+}
+
+header{
+    height: 1500px;
+    position: fixed;
+    top: 0px;
+}
+
+p{
+    margin-top: 50px;
+}
+
+ 
+
+.red{
+    width: 200px;
+    background-color: red;
+    padding: 5px;
+    float: left;
+}
+
+.blue{
+    width: 400px;
+    background-color: blue;
+    padding: 5px;
+    float: left;
+}
+
+.green{
+    width: 300px;
+    background-color: green;
+    padding: 5px;
+    float: left;
+}
+
+p{
+    clear: both;
+}
+
+h1{
+    color: red;
+}

@@ -1,0 +1,23 @@
+p {
+    color: blue;
+}
+
+.image {
+    border: 1px solid black;
+    width: 1000px;
+    height: 700px;
+    background-image: url(https://e7.pngegg.com/pngimages/62/207/png-clipart-mountain-desktop-high-definition-video-display-resolution-1080p-scenery-computer-landscape.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background: url(https://e7.pngegg.com/pngimages/62/207/png-clipart-mountain-desktop-high-definition-video-display-resolution-1080p-scenery-computer-landscape.png) no-repeat;
+    background-size: cover;
+    background: rgb(36, 36, 0);
+    background: linear-gradient(90deg, rgba(36, 36, 0, 0.7426142331932772) 0%, rgba(9, 118, 121, 0.7454153536414565) 35%, rgba(252, 0, 255, 0.5353313200280112) 100%);
+    background: linear-gradient(circle, rgba(255, 0, 0, 0.50), rgb(4, 246, 246, 0.5));
+    background-image:
+        linear-gradient(90deg, rgba(255, 255, 255, 1) 50%, rgba(253, 1, 89, 0.2) 50%), url(https://e7.pngegg.com/pngimages/62/207/png-clipart-mountain-desktop-high-definition-video-display-resolution-1080p-scenery-computer-landscape.png);
+    background-size: cover;
+    color: white;
+}
