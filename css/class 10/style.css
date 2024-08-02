@@ -1,6 +1,6 @@
 .mainContainer {
   display: flex;
-  height: 1000px;
+  height: 1000px;   
   background-color: aqua;
   align-items: baseline;
   flex-flow: row wrap;   
