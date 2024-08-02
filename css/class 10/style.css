@@ -1,5 +1,5 @@
 .mainContainer {
-  display: flex;
+  display: flex;  
   height: 1000px;   
   background-color: aqua;
   align-items: baseline;
