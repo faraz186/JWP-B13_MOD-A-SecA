@@ -1,0 +1,89 @@
+/* body{
+    background-color: aquamarine;
+} */
+
+/* h1{
+    color: red;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+p{
+    color: white;
+    background-color: black;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 800px;
+}
+
+
+
+@media only screen and (max-width:700px){
+    body{
+        background-color: orangered;
+    }
+    img{
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width:550px){
+    img{
+        width: 400px;
+    }
+} */
+
+/* .parent{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px 20px;
+}
+
+
+
+.div1{
+    background-color: red;
+    width: 350px;
+    font-size:60px;
+    height: 250px;
+}
+
+.div2{
+    background-color: green;
+    width: 350px;
+    font-size:60px;
+    height: 250px;
+}
+
+.div3{
+    background-color: blue;
+    width: 350px;
+    font-size:60px;
+    height: 250px;
+}
+
+.div4{
+    background-color: orange;
+    width: 350px;
+    font-size:60px;
+    height: 250px;
+}
+
+@media only screen and (max-width:768px){
+    .div1,.div2,.div3,.div4{
+        width: 100%;
+    }
+} */
+
+/* .headingOne{
+    color: red !important;
+    background-color: black;
+} */
+
+p{
+    color: blue;
+}
