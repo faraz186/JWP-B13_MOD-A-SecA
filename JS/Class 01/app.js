@@ -10,7 +10,7 @@ console.log(456646546)   // JS Builtin method
 
 // datatypes  
 
-// String, number, undefined
+// String, number, undefined   
 
 
 var firstname =  "Muhammad";
