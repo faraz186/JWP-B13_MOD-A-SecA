@@ -17,7 +17,7 @@ var firstname =  "Muhammad";
 
 var lastname = "Faraz"
 
-console.log( firstname + lastname)
+console.log(firstname + lastname)
 
 
 var abc = 10;
@@ -34,9 +34,9 @@ console.log(num1)
 
 
 
-var fname = "Mr"
+var fname = "Muhammad"
 
-var lname = "ahmed"
+var lname = "Faraz"
 
 console.log(fname + " " + lname)   
 
