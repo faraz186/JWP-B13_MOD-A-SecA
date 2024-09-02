@@ -1,6 +1,6 @@
  alert("faraz") // JS Builtin Function   
 
-document.write("faraz")  // JS Builtin method
+document.write("faraz")  // JS Builtin method   
   
 console.log(456646546)   // JS Builtin method   
 
