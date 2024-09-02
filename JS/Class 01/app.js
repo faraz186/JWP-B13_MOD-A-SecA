@@ -8,7 +8,7 @@ console.log(456646546)   // JS Builtin method
 // variables
 
 
-// datatypes
+// datatypes  
 
 // String, number, undefined
 
