@@ -38,7 +38,7 @@ var fname = "Mr"
 
 var lname = "ahmed"
 
-console.log(fname + " " + lname)
+console.log(fname + " " + lname)   
 
 
 var num1 = 10;   
