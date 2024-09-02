@@ -1,0 +1,76 @@
+JavaScript (Programming language)
+
+world 2 highly paid programming language
+
+high level language
+low level language
+machine language
+
+
+
+complier    --> whole code execute.
+
+interpreter --> line by line code execute
+
+error finding and debugging
+
+1. ------
+2.-----------------
+3.----------------
+4.------------------
+5.-----------------------------
+6.---------------------------
+
+
+What is code or program?
+
+syntax  ---> the way you how to write
+		the code
+
+frontEnd----> Reactjs, angularjs, vuejs
+backEnd ----> nodejs
+mobile -----> react native
+blockchain ---> solidarityjs
+AI ----> TensorFlow
+
+
+
+static website
+
+Dynamic website
+JavaScript
+
+1) JS
+2) Common JS
+3) Vanilla JS
+4) ES5 (EcmaScript 5)
+5) basic JS
+
+
+https://github.com/faraz186/JWP-B13_MOD-A-SecA
+
+
+es6,modulejs,advance js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+there are two ways to apply js
+
+1) Internal JS
+2) External JS
+
+
+
+
+
