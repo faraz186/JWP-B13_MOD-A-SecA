@@ -41,7 +41,7 @@ var lname = "ahmed"
 console.log(fname + " " + lname)
 
 
-var num1 = 10;
+var num1 = 10;   
 
 var num2 = "20";
 
