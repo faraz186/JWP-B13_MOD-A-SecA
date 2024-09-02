@@ -1,4 +1,4 @@
- alert("faraz") // JS Builtin Function
+ alert("faraz") // JS Builtin Function   
 
 document.write("faraz")  // JS Builtin method
 
