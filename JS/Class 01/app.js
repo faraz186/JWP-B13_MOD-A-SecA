@@ -16,7 +16,7 @@ console.log(456646546)   // JS Builtin method
 var firstname =  "Muhammad";
 
 var lastname = "Faraz"
-
+   
 console.log(firstname + lastname)
 
 
