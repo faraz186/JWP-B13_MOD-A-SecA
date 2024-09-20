@@ -6,16 +6,16 @@
 
 var a = 10, b = 20, c = 30,  d = 40, e= 50;
 
-// console.log(a,b,c,d,e)
+console.log(a,b,c,d,e)
 
 
 //index number   0    1     2  3      4       5   6  
 
-// var numbers = [10,"faraz",30,true,undefined,100,false];
+var numbers = [10,"faraz",30,true,undefined,100,false];
 
-// numbers[7] = "hamza";
+numbers[7] = "hamza";
 
-// numbers[10] = 5113131313;
+numbers[10] = 5113131313;
 
 
 // console.log(numbers[10])
