@@ -23,15 +23,13 @@ console.log(numbers.length)
 
 
 
-// var biodata = [prompt("Enter your first name"),
-//     prompt("Enter your last name"),
-//     prompt("Enter your age"),
-//     prompt("Enter your city")];
+var biodata = [prompt("Enter your first name"),
+    prompt("Enter your last name"),
+    prompt("Enter your age"),
+    prompt("Enter your city")];
 
 
-// console.log(`Hello my name is ${biodata[0]} ${biodata[1]}. 
-
-//     I am ${biodata[2]} years old. I lived in ${biodata[3]}`);
+console.log(`Hello my name is ${biodata[0]} ${biodata[1]}. I am ${biodata[2]} years old. I lived in ${biodata[3]}`);
 
 
 // var arr = [];
