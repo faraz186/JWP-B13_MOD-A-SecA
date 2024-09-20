@@ -78,11 +78,3 @@ var arr = ['apple',"pine apple",'banana','orange',"mango","grapes"];
 var res  =  arr.slice(2,6)
 
 console.log(res)
-
-
-
-
-
-
-
-
