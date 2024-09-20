@@ -32,11 +32,11 @@ var biodata = [prompt("Enter your first name"),
 console.log(`Hello my name is ${biodata[0]} ${biodata[1]}. I am ${biodata[2]} years old. I lived in ${biodata[3]}`);
 
 
-// var arr = [];
+var arr = [];
 
-// arr[0] = 10;
-// arr[1] = "string";
-// arr[2] = false
+arr[0] = 10;
+arr[1] = "string";
+arr[2] = false
 
 
 var arr = ['apple','banana','orange'];
