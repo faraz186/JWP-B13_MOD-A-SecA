@@ -2,7 +2,7 @@
 
 // array is a method which store multiple values in a single vaiable is 
 
-// called an array.
+// called an array.   
 
 var a = 10, b = 20, c = 30,  d = 40, e= 50;
 
