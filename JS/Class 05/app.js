@@ -14,7 +14,7 @@ console.log(a,b,c,d,e)
 var numbers = [10,"faraz",30,true,undefined,100,false];
 
 numbers[7] = "hamza";
-
+   
 numbers[10] = 5113131313;
 
 
