@@ -1,6 +1,6 @@
 // Array
 
-// array is a method which store multiple values in a single vaiable is 
+// array is a method which store multiple values in a single vaiable is    
 
 // called an array.   
 
