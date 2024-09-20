@@ -10,7 +10,7 @@ console.log(a,b,c,d,e)
    
 
 //index number   0    1     2  3      4       5   6  
-
+   
 var numbers = [10,"faraz",30,true,undefined,100,false];
 
 numbers[7] = "hamza";
