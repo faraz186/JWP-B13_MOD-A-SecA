@@ -42,18 +42,18 @@ console.log(startingText + replaceText + remainText);
 
 // indexOf Method
 
-// var str = `To find the last instance of a segment in a string, use lastIndexOf. The following code
-// finds the index of the first character of the last instance`;
+var str = `To find the last instance of a segment in a string, use lastIndexOf. The following code
+finds the index of the first character of the last instance`;
 
-// var index = str.indexOf("lastIndexOf");
+var index = str.indexOf("lastIndexOf");
 
-// var start = str.slice(0, 56);
+var start = str.slice(0, 56);
 
-// var replacing = "indexOf";
+var replacing = "indexOf";
 
-// var remainText = str.slice(index + 11);
+var remainText = str.slice(index + 11);
 
-// console.log(start + replacing + remainText);
+console.log(start + replacing + remainText);
 
 // LastIndexof() method
 
