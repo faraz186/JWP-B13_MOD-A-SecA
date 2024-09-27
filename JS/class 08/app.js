@@ -57,27 +57,27 @@ console.log(start + replacing + remainText);
 
 // LastIndexof() method
 
-// var text = `to be or not be`;
+var text = `to be or not be`;
 
-// var index = text.lastIndexOf("be");
+var index = text.lastIndexOf("be");
 
-// console.log(index);
+console.log(index);
 
 // replace method and replaceAll method
 
-// var text = `The New Yorker magazine doesnt allow the phrase World War II. They say it should be World War II`;
+var text = `The New Yorker magazine doesnt allow the phrase World War II. They say it should be World War II`;
 
-// console.log(text.replaceAll("World War II", "The Second world war"));
+console.log(text.replaceAll("World War II", "The Second world war"));
 
-// console.log(text.replace("World War II", "The Second world war"));
+console.log(text.replace("World War II", "The Second world war"));
 
-// var str = "hello world";
+var str = "hello world";
 
-// var getChar = str.endsWith("f");
+var getChar = str.endsWith("f");
 
-// var getChar = str.split("");
+var getChar = str.split("");
 
-// console.log(getChar);
+console.log(getChar);
 
 // var arr = [10, "faraz", undefined, 40, true];
 
