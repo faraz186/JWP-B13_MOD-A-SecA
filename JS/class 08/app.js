@@ -1,43 +1,44 @@
-// var str = prompt("Enter some Text");
+var str = prompt("Enter some Text");
 
-// for (var i = 0; i < str.length; i++) {
-//   if (str.slice(i, i + 3) === "   ") {
-//     alert("! found");
-//   }
-// }
+for (var i = 0; i < str.length; i++) {
+  if (str.slice(i, i + 3) === "   ") {
+    alert("! found");
+  }
+}
 
-// var text = `The New Yorker magazine doesn't allow
-// the phrase World War II. They say it should be`;
 
-// for (var i = 0; i < text.length; i++) {
-//   if (text.slice(i, i + 12) === "World War II") {
-//     text = text.slice(0, i) + "The Second world war" + text.slice(i + 12);
-//   }
-// }
+var text = `The New Yorker magazine doesn't allow
+the phrase World War II. They say it should be`;
 
-// console.log(text);
+for (var i = 0; i < text.length; i++) {
+  if (text.slice(i, i + 12) === "World War II") {
+    text = text.slice(0, i) + "The Second world war" + text.slice(i + 12);
+  }
+}
 
-// var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
+console.log(text);
 
-// for (var i = 0; i < text.length; i++) {
-//   if (text.slice(i, i + 4) === "Khan") {
-//     text = text.slice(0, i) + "Imran khan" + text.slice(i + 4);
-//   }
-// }
+var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
 
-// console.log(text);
+for (var i = 0; i < text.length; i++) {
+  if (text.slice(i, i + 4) === "Khan") {
+    text = text.slice(0, i) + "Imran khan" + text.slice(i + 4);
+  }
+}
 
-// var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
+console.log(text);
 
-// var indexNum = text.indexOf("World War II");
+var text = `The New Yorker magazine doesnt allow the Khan phrase World War II. They say it should be`;
 
-// var startingText = text.slice(0, 53);
+var indexNum = text.indexOf("World War II");
 
-// var replaceText = "The Second world war";
+var startingText = text.slice(0, 53);
 
-// var remainText = text.slice(indexNum + 12);
+var replaceText = "The Second world war";
 
-// console.log(startingText + replaceText + remainText);
+var remainText = text.slice(indexNum + 12);
+
+console.log(startingText + replaceText + remainText);
 
 // indexOf Method
 
