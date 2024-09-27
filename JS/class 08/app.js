@@ -79,11 +79,11 @@ var getChar = str.split("");
 
 console.log(getChar);
 
-// var arr = [10, "faraz", undefined, 40, true];
+var arr = [10, "faraz", undefined, 40, true];
 
-// var data = arr.join("_");
+var data = arr.join("_");
 
-// console.log(data);
+console.log(data);
 
 var country_list = [
   "Afghanistan",
