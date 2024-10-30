@@ -20,7 +20,7 @@ studentObj.courses.push('React JS','PHP')
 studentObj.courses.unshift('PYTHON')
 
 console.log(studentObj.courses);  
-
+  
 console.log(studentObj['stdName']);
 
 
