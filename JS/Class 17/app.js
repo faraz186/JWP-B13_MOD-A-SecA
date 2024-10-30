@@ -141,7 +141,7 @@ function Student(name,age,email,city){
 var student1 = new Student('faraz',23,'faraz@gmail.com','karachi');
 
 var student2 = new Student('hamza',26,'hamza@gmail.com','lahore');
-
+  
 
 console.log(student1.stdGetEmail());
 
