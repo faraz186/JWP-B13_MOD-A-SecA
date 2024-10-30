@@ -10,7 +10,7 @@ var studentObj = {
     stdGender:"male",
     stdRollNo:1575,   
     stdEmail:"faraz@gmail.com",  
-    stdCity:'karachi'
+    stdCity:'karachi'  
 }
 
 studentObj.courses = ['html','css','js']    
