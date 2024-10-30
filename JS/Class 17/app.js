@@ -21,7 +21,7 @@ studentObj.courses.unshift('PYTHON')
 
 console.log(studentObj.courses);  
   
-console.log(studentObj['stdName']);
+console.log(studentObj['stdName']);  
 
 
 
