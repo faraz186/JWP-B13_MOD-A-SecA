@@ -27,7 +27,7 @@ console.log(studentObj['stdName']);
 
 
 var studentObj = {
-    stdAddress:{
+    stdAddress:{  
         country:'Pakistan',
         city:'Karachi',
         longitude:415.5151,
