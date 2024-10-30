@@ -13,7 +13,7 @@ var studentObj = {
     stdCity:'karachi'
 }
 
-studentObj.courses = ['html','css','js']  
+studentObj.courses = ['html','css','js']    
   
 studentObj.courses.push('React JS','PHP')
 
