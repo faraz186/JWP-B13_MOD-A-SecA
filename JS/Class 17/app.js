@@ -31,7 +31,7 @@ var studentObj = {
         country:'Pakistan',
         city:'Karachi',
         longitude:415.5151,
-        latitude:15.45,
+        latitude:15.45,  
         zipCode: 12345
     },
     stdName:'faraz',
