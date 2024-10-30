@@ -8,7 +8,7 @@ var studentObj = {
     stdAge:23,
     courses:'ReactJS',
     stdGender:"male",
-    stdRollNo:1575, 
+    stdRollNo:1575,   
     stdEmail:"faraz@gmail.com",  
     stdCity:'karachi'
 }
