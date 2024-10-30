@@ -2,7 +2,7 @@ var studentArr = ['faraz',23,"male",1575,"faraz@gmail.com",'karachi'];
 
 console.log(studentArr);
 
-
+  
 var studentObj = {
     stdName:'faraz',
     stdAge:23,
