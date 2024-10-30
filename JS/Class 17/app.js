@@ -9,7 +9,7 @@ var studentObj = {
     courses:'ReactJS',
     stdGender:"male",
     stdRollNo:1575, 
-    stdEmail:"faraz@gmail.com",
+    stdEmail:"faraz@gmail.com",  
     stdCity:'karachi'
 }
 
