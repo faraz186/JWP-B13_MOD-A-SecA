@@ -6,7 +6,7 @@ var questions = [
       option3: "Hyper Touch Markup Language",
       corrAnswer: "Hyper Text Markup Language",
     },  
-    {
+    {  
       question: "CSS Stands for",  
       option1: "Cascoding Style Sheets",
       option2: "Cascading Style Sheets",     
