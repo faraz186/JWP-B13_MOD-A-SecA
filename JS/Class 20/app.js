@@ -1,4 +1,4 @@
-var questions = [
+var questions = [  
     {
       question: "Q1: HTML Stands for?",
       option1: "Hyper Text Markup Language",
