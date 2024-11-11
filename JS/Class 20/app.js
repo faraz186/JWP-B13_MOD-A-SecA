@@ -18,7 +18,7 @@ var questions = [
       option1: "<h6>",
       option2: "<h2>",
       option3: "<h1>",  
-      corrAnswer: "<h1>",
+      corrAnswer: "<h1>",   
     },
     {
       question: "Which tag is used to make element unique ",
