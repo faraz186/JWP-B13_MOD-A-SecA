@@ -17,7 +17,7 @@ var questions = [
       question: "Which tag is used for most large heading",
       option1: "<h6>",
       option2: "<h2>",
-      option3: "<h1>",
+      option3: "<h1>",  
       corrAnswer: "<h1>",
     },
     {
