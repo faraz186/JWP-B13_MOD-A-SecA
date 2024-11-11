@@ -14,7 +14,7 @@ var questions = [
       corrAnswer: "Cascading Style Sheets",
     },
     {
-      question: "Which tag is used for most large heading",
+      question: "Which tag is used for most large heading",  
       option1: "<h6>",
       option2: "<h2>",
       option3: "<h1>",  
