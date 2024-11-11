@@ -7,7 +7,7 @@ var questions = [
       corrAnswer: "Hyper Text Markup Language",
     },  
     {
-      question: "CSS Stands for",
+      question: "CSS Stands for",  
       option1: "Cascoding Style Sheets",
       option2: "Cascading Style Sheets",   
       option3: "Cascating Style Sheets",
