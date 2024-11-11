@@ -1,5 +1,5 @@
 var questions = [  
-    {
+    {  
       question: "Q1: HTML Stands for?",
       option1: "Hyper Text Markup Language",
       option2: "Hyper Tech Markup Language",
